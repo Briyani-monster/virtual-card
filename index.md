@@ -7,5 +7,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # Virtual Card Data
 
 `
-  
+  https://briyani-monster.github.io/virtual-card/data.json
 `
